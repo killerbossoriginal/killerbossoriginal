@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 [![](https://skillicons.dev/icons?i=github,gitlab,git)]()
 - Text Editors / IDEs <br> <br>
 [![](https://skillicons.dev/icons?i=visualstudio,vscode,idea,eclipse)]()
+
+[![](https://api.daily.dev/devcards/4e70cf7c3b834926b322360f8898dbd7.png?r=ov5)]()
