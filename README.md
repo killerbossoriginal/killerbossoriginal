@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 [![](https://skillicons.dev/icons?i=discord,instagram)]()
 ## My Informatic competences:
 - FrontEnd <br> <br>
-[![](https://skillicons.dev/icons?i=html,css,js,nextjs,react,md,materialui)]()
+[![](https://skillicons.dev/icons?i=html,css,js,nextjs,react,md,materialui,flutter)]()
 - BackEnd <br> <br>
-[![](https://skillicons.dev/icons?i=js,ts,java,kotlin,cpp,py)]()
+[![](https://skillicons.dev/icons?i=js,ts,java,kotlin,cpp,py,dart)]()
 - Desktop application development <br> <br>
 [![](https://skillicons.dev/icons?i=electron)]()
 - Graphics Engines <br> <br>
