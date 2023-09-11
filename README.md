@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 - Database <br> <br>
 [![](https://skillicons.dev/icons?i=mongodb,mysql)]()
 - Project Management and CD/CI <br> <br>
-[![](https://skillicons.dev/icons?i=github,gitlab,git)]()
+[![](https://skillicons.dev/icons?i=github,gitlab,git,gitea)]()
 - Text Editors / IDEs <br> <br>
 [![](https://skillicons.dev/icons?i=visualstudio,vscode,idea,eclipse)]()
