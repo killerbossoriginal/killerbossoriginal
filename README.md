@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 [![](https://skillicons.dev/icons?i=html,css,js,nextjs,react,md,materialui,flutter)]()
 - BackEnd <br> <br>
 [![](https://skillicons.dev/icons?i=js,ts,java,kotlin,cpp,py,dart)]()
-- Desktop application development <br> <br>
-[![](https://skillicons.dev/icons?i=electron)]()
+- Application development <br> <br>
+[![](https://skillicons.dev/icons?i=electron,tauri)]()
 - Graphics Engines <br> <br>
-[![](https://skillicons.dev/icons?i=godot,unity,unreal)]()
+[![](https://skillicons.dev/icons?i=godot,unreal)]()
 - Database <br> <br>
 [![](https://skillicons.dev/icons?i=mongodb,mysql)]()
 - Project Management and CD/CI <br> <br>
